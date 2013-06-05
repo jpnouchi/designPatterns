@@ -4,3 +4,19 @@
 *.jar
 *.war
 *.ear
+
+# generated files
+bin/
+gen/
+Servers/
+target/
+
+
+# Eclipse project files
+#.classpath
+#.project
+.metadata
+
+# Idea project files
+*.iml
+.idea/
